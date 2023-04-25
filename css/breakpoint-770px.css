@@ -7,5 +7,39 @@
     .cabecalho a {
         font-size: 2rem;
     }
+
+.conteudo{
+    padding: 0 10px;
+
 }
+    .conteudo>div img {
+        flex-grow: 2;
+        display: block;
+        
+        
+    }
+
+    .conteudo p {
+        text-decoration: none;
+        font-size: 2.5em;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 400;
+    }
+
+
+    .rodape{
+    margin-top: 10px;
+        width: 100%;
+        height: auto;
+        padding: 0 10px;
+    }
+
+    .tit-rodape{
+
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+
 
