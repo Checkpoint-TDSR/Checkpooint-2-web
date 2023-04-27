@@ -1,0 +1,19 @@
+@import url("./cabecalho.css");
+@import url("./conteudo.css");
+@import url(./rodape.css);
+@import url(./breakpoint-770px.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.7%;
+}
+
+
+
+
+ 
