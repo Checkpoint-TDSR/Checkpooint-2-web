@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
 @import url("./cabecalho.css");
 @import url("./conteudo.css");
 @import url(./rodape.css);
 @import url(./breakpoint-770px.css);
-
+@import url(./breakpoint-444px.css);
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
 }
 
 html{
