@@ -2,10 +2,25 @@
     .cabecalho{
         display: flex;
         flex-direction: column;
+        padding: 2%;
     }
-    a{
-        display: flex;
-        flex-direction: column;
+    .cabecalho > nav{
+     display: block;
+     flex-direction:column;
+     width: 36%;
+     margin-top: 15%;
+     height: 8rem;
+     font-size: 5px;
+    }
+    .cabecalho > a{
+        justify-content: space-evenly;
     }
     
+    .tit-rodape{
+        font-size: 2em;
+    }
+    h2{
+       font-size: 1em;
+        margin: 5%;
+      }
 }
