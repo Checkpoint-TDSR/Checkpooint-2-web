@@ -1,0 +1,11 @@
+@media(max-width:445px){
+    .cabecalho{
+        display: flex;
+        flex-direction: column;
+    }
+    a{
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
